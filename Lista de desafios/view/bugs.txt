@@ -1,0 +1,19 @@
+[BUG]: 
+    Error: 
+        failure on appendChild h1
+
+    Cause: 
+        overwrites after appending, or before he's climb to footer
+
+    Solution:
+        [PROVISORIAL] Quick fix on CSS h1, to make to top
+
+[BUG]:
+    Error:
+        Error in Absolute and relative path
+    
+    Cause:
+        wrong path or javascript client-side not able to handler 
+    
+    Situation:
+        Seeing Ajax JQuery or XMLHttpRequest, if fails find do nodejs
